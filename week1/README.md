@@ -53,7 +53,7 @@ Overall, extending our Bloc state objects from Equatable can help to simplify ou
 
 
 
-********************Provider******************
+********************Provider**************************
 
 Technologies Used
 
