@@ -1,15 +1,15 @@
-Project Name
-A brief description of your project.
+bytewise fellowship week1
+Overview
+The purpose of the project was to learn how to use state management and learn working with rest apis.
 
+In this project I used two state managements, bloc for fetching apis, and provider for api fetching and learning state management with it.
+
+*************  Fetching Api with Bloc *********************
 Technologies Used
-Flutter
 Bloc
 Cubit
 Equatable
-
-
-Overview
-The purpose of the project was to learn how to use state management and learn working with rest apis.
+dio (for api services)
 
 Bloc and State
 The Bloc class is post_fetch_bloc.dart
@@ -38,6 +38,27 @@ This is especially useful when working with complex objects that have many prope
 Overall, extending our Bloc state objects from Equatable can help to simplify our code, reduce the likelihood of bugs caused by object reference errors, and make it easier to test and debug your application.
 
 
+
+********************Provider******************
+Technologies Used
+Provider
+http
+
+class and providers
+class name is login.dart and it's provider name is login_provider.dart
+class name is fav.dart and it's provider name is fav_provider.dart
+
+API
+I used a public post fetching api.
+https://reqres.in/ (login)
+
+credentials:
+ "email": "eve.holt@reqres.in",
+    "password": "cityslicka"
+
+
+Screens working
+We login from login screen and go to favourite screen there we select our fav products and those products are saved in the next screen.
 
 
 
