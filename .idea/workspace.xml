@@ -4,7 +4,9 @@
     <option name="autoReloadType" value="NONE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="bf6f7b41-4435-4f92-b4c0-be806d44ac06" name="Default Changelist" comment="Week 2 task completed" />
+    <list default="true" id="bf6f7b41-4435-4f92-b4c0-be806d44ac06" name="Default Changelist" comment="-a">
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -16,6 +18,7 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
     <option name="ROOT_SYNC" value="DONT_SYNC" />
+    <option name="WARN_ABOUT_DETACHED_HEAD" value="false" />
   </component>
   <component name="MarkdownSettingsMigration">
     <option name="stateVersion" value="1" />
@@ -105,6 +108,7 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="main directory set, week1 project added" />
     <MESSAGE value="Week 2 task completed" />
-    <option name="LAST_COMMIT_MESSAGE" value="Week 2 task completed" />
+    <MESSAGE value="-a" />
+    <option name="LAST_COMMIT_MESSAGE" value="-a" />
   </component>
 </project>
