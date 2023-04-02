@@ -6,3 +6,8 @@ To store and retrieve data from the Firebase Cloud Firestore, I created a class 
 For managing images, I implemented Firebase Storage to add, update, or delete images. This helped with the storage and management of images in the app, providing a reliable and efficient way to store images on the cloud.
 
 Furthermore, I used Flutter dependencies/packages to implement the ability to share and save images to the gallery or other apps. This added an extra layer of functionality and user experience to the app, making it more user-friendly and interactive.
+
+
+
+Note: I added only the files in which i worked.
+if you want to check out my complete app you can visit the following link: https://github.com/mehroshkw/week2_bytewise_fellowship
