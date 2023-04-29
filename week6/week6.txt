@@ -1,3 +1,32 @@
-Advanced UI Topics in Flutter
-This project is an example of advanced UI topics in Flutter. It covers the following topics:
+Note:
+I have only added code files here. I have uploaded complete project on GitHub Separately.
+To see complete project code visit this link:
 https://github.com/mehroshkw/week6
+
+About Project:
+Flutter Supported Platforms and App Performance
+I created this Flutter app to showcase the different platforms that Flutter supports and the best practices for optimizing app performance. The app includes screens that cover flutter supported platfoms infromation and app performance infromation.
+
+Supported Platforms
+The app includes screens that demonstrate how to work with Flutter on the following platforms:
+
+Android
+iOS
+Desktop (Windows, macOS, Linux)
+Web
+Each platform screen includes information on how to set up the development environment, run the app on the platform, and any platform-specific considerations to keep in mind.
+
+App Performance
+
+State management
+Image optimization
+Network calls and caching
+Profiling and debugging
+The Impeller update is a new performance optimization tool in Flutter that can help improve app startup time and reduce memory usage.
+The performance screens also include information on how to use Impeller in your app.
+
+Conclusion
+This app includes information about how app performance works and why it is important.
+
+
+

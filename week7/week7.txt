@@ -1,5 +1,5 @@
 Note:
-I have only added code files here. I have uploaded complete project on GitHub Separatly.
+I have only added code files here. I have uploaded complete project on GitHub Separately.
 To see complete project code visit this link:
 https://github.com/mehroshkw/week7
 
