@@ -1,9 +1,5 @@
 Advanced UI Topics in Flutter
 This project is an example of advanced UI topics in Flutter. It covers the following topics:
-https://github.com/mehroshkw/week7
-
-Advanced UI Topics in Flutter
-This project is an example of advanced UI topics in Flutter. It covers the following topics:
 
 Custom Painters
 Custom Animations
