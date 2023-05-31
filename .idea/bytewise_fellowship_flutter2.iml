@@ -6,6 +6,21 @@
       <excludeFolder url="file://$MODULE_DIR$/week2/.pub" />
       <excludeFolder url="file://$MODULE_DIR$/week2/build" />
       <excludeFolder url="file://$MODULE_DIR$/week2/.dart_tool" />
+      <excludeFolder url="file://$MODULE_DIR$/week4/build" />
+      <excludeFolder url="file://$MODULE_DIR$/week4/.pub" />
+      <excludeFolder url="file://$MODULE_DIR$/week4/.dart_tool" />
+      <excludeFolder url="file://$MODULE_DIR$/week1/.pub" />
+      <excludeFolder url="file://$MODULE_DIR$/week1/build" />
+      <excludeFolder url="file://$MODULE_DIR$/week1/.dart_tool" />
+      <excludeFolder url="file://$MODULE_DIR$/week6/week6_practicle/build" />
+      <excludeFolder url="file://$MODULE_DIR$/week6/week6_practicle/.pub" />
+      <excludeFolder url="file://$MODULE_DIR$/week6/week6_practicle/.dart_tool" />
+      <excludeFolder url="file://$MODULE_DIR$/week7/week7_practicle/.pub" />
+      <excludeFolder url="file://$MODULE_DIR$/week7/week7_practicle/build" />
+      <excludeFolder url="file://$MODULE_DIR$/week7/week7_practicle/.dart_tool" />
+      <excludeFolder url="file://$MODULE_DIR$/week3/build" />
+      <excludeFolder url="file://$MODULE_DIR$/week3/.dart_tool" />
+      <excludeFolder url="file://$MODULE_DIR$/week3/.pub" />
     </content>
     <orderEntry type="inheritedJdk" />
     <orderEntry type="sourceFolder" forTests="false" />
