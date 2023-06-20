@@ -16,4 +16,5 @@ Functional Requirements:
 7.	Once the service finder selects the maintenance professionals and his work is complete, after that he should have the facility to close status of their work description.
 8.	The Application should give the facility to rate the professional worker so that in future it will be easy to check the quality of professional worker.
 
-
+Note: To see Project and code files, Please Visit the following url:
+https://github.com/mehroshkw/bytewise_final_week_task
